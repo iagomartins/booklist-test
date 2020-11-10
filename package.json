@@ -1,0 +1,19 @@
+{
+  "name": "booklist-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iago Martins",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "cors": "^2.8.5",
+    "font-awesome": "^4.7.0",
+    "http-server": "^0.12.3",
+    "vue": "^2.6.12",
+    "vue-resource": "^1.5.1"
+  }
+}
